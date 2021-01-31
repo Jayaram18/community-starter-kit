@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+1. Welcome to this repo. 
+2. Hope you will find something useful in this repo.
+3. Have a good day :)
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This bot helps you with read , write.
 
 ## Getting started
 
